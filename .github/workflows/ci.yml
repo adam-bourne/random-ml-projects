@@ -56,7 +56,7 @@ jobs:
 
       # install the packages we need
       - name: Install Python dependencies
-        run: pip install -r ../../requirements.txt
+        run: pip install -r requirements.txt
 
       # run pytest
       - name: Run pytest
