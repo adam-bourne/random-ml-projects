@@ -5,3 +5,4 @@ tensorflow==2.13.0
 keras==2.13.1
 datasets==2.13.1
 pytest==7.4.0
+Pillow==10.0.0
